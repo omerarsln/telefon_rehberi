@@ -1,0 +1,11 @@
+.list{
+    list-style-type: none;
+    margin : 10px auto;
+    padding: 0;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
